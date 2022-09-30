@@ -60,3 +60,20 @@ btn:hover {
 #equal-btn:hover {
   background-color: rgb(147, 39, 0);
 }
+
+.calc-display {
+  padding: 0.9rem;
+  text-align: right;
+}
+
+#user-input {
+  background-color: pink;
+  height: 2rem;
+  color: black
+}
+
+#result {
+  background-color: #ffd139;
+  color: black;
+  height: 2rem;
+}
